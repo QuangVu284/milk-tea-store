@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Royal Milk Tea",
+        "price": 4.8,
+        "toppings": "Milk foam,white pearl"
+      },
+      {
+        "id": 2,
+        "name": "Green Milk Tea",
+        "price": 4.6,
+        "toppings": "pearl"
+      },
+      {
+        "id": 3,
+        "name": "Oolong Milk Tea",
+        "price": 5.1,
+        "toppings": "Pearl, milk foam"
+      },
+      {
+        "id": 4,
+        "name": "Blueberry Milk Tea",
+        "price": 5.1,
+        "toppings": "Pearl, milk foam"
+      },
+      {
+        "id": 5,
+        "name": "Mango Milk Tea",
+        "price": 5.1,
+        "toppings": "Aloe, Pearl"
+      },
+      {
+        "id": 6,
+        "name": "Black Sugar Milk Tea",
+        "price": 5.0,
+        "toppings": "Black sugar, Pearl"
+      },
+      {
+        "id": 7,
+        "name": "Fresh Milk with Aloe",
+        "price": 4.9,
+        "toppings": "Aloe, Fresh milk"
+      },
+      {
+        "id": 8,
+        "name": "Classic Milk Tea",
+        "price": 4.5,
+        "toppings": "Pearl, Milk foam"
+      },
+      {
+        "id": 9,
+        "name": "Taro Milk Tea",
+        "price": 5.2,
+        "toppings": "White pearl, Milk foam"
+      },
+      {
+        "id": 10,
+        "name": "Matcha Fresh Milk",
+        "price": 5.3,
+        "toppings": "Fresh milk, Pearl"
+      }
+    ]
+  }
+  

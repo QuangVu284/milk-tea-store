@@ -1,0 +1,106 @@
+{
+    "shopProducts":
+    [
+      {
+        "id": 1,
+        "shop": 1,
+        "product": 1
+      },
+      {
+        "id": 2,
+        "shop": 1,
+        "product": 2
+      },
+      {
+        "id": 3,
+        "shop": 2,
+        "product": 2
+      },
+      {
+        "id": 4,
+        "shop": 1,
+        "product": 3
+      },
+      {
+        "id": 5,
+        "shop": 3,
+        "product": 3
+      },
+      {
+        "id": 6,
+        "shop":4 ,
+        "product": 1
+      },
+      {
+        "id": 7,
+        "shop": 3,
+        "product": 1
+      },
+      {
+        "id": 8,
+        "shop": 3,
+        "product": 5
+      },
+      {
+        "id": 9,
+        "shop": 1,
+        "product": 4
+      },
+      {
+        "id": 10,
+        "shop": 2,
+        "product": 5
+      },
+      {
+        "id": 11,
+        "shop": 1,
+        "product": 6
+      },
+      {
+        "id": 12,
+        "shop": 1,
+        "product": 7
+      },
+      {
+        "id": 13,
+        "shop": 2,
+        "product": 8
+      },
+      {
+        "id": 14,
+        "shop": 2,
+        "product": 9
+      },
+      {
+        "id": 15,
+        "shop": 3,
+        "product": 10
+      },
+      {
+        "id": 16,
+        "shop": 3,
+        "product": 6
+      },
+      {
+        "id": 17,
+        "shop": 4,
+        "product": 7
+      },
+      {
+        "id": 18,
+        "shop": 4,
+        "product": 8
+      },
+      {
+        "id": 19,
+        "shop": 1,
+        "product": 10
+      },
+      {
+        "id": 20,
+        "shop": 2,
+        "product": 6
+      }
+    ]
+  }
+  
